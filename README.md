@@ -2,7 +2,7 @@
 
 Our SC1015 Data Science &amp; Artificial Intelligence Mini-Project!
 
-[Screenshot 2023-04-23 at 23-35-08 SC1015 Project](https://user-images.githubusercontent.com/67941344/233849470-a2f2daa5-978e-43bb-8d02-a15e16a132b9.png)
+![Screenshot 2023-04-23 at 23-35-08 SC1015 Project](https://user-images.githubusercontent.com/67941344/233849470-a2f2daa5-978e-43bb-8d02-a15e16a132b9.png)
 
 
 ## Flow of our notebooks
