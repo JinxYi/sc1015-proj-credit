@@ -1,12 +1,17 @@
-# sc1015-mini-proj-credit
+# SC1015 Data Science and Artificial Intelligence mini project - Give me some credit
 
 Our SC1015 Data Science &amp; Artificial Intelligence mini-project
 
 ## Flow of our notebooks
-|Input   | Python Notebook  | Output  |
-|---|---|---|
-|  cs data.csv | 1015_project.ipynb  |  df_train1.csv & df_test1.csv  |
-|  df_train1.csv & df_test1.csv | 1015_project_model.ipynb  |  - |
+|Input   | Python Notebook  | Output  | About |
+|---|---|---|---|
+|  cs data.csv | 1015_project.ipynb  |  df_train1.csv & df_test1.csv  | Containing EDA |
+|  df_train1.csv & df_test1.csv | 1015_project_model.ipynb  |  - | Machine Learning using Decision Tree and AdaBoost |
+
+## Contributors
+- Rina: Creating slides, script and video, importing data and cleaning
+- Jia Ling: Data cleaning and preparation, EDA
+- Jing Yi: Machine Learning
 
 ## Libraries Used
 
