@@ -5,13 +5,16 @@ Our SC1015 Data Science &amp; Artificial Intelligence mini-project
 ## Flow of our notebooks
 |Input   | Python Notebook  | Output  | About |
 |---|---|---|---|
-|  cs data.csv | 1015_project.ipynb  |  df_train1.csv & df_test1.csv  | Containing EDA |
+|  cs data.csv | 1015_project.ipynb  |  df_train.csv & df_test.csv  | Containing EDA |
+|  df_train.csv & df_test.csv | 1015_project_normalization.ipynb  |  df_train1.csv & df_test1.csv  | Contains normalization + EDA |
 |  df_train1.csv & df_test1.csv | 1015_project_model.ipynb  |  - | Machine Learning using Decision Tree and AdaBoost |
+
 
 ## Contributors
 - Rina: Creating slides, script and video, importing data and cleaning
 - Jia Ling: Data cleaning and preparation, EDA
 - Jing Yi: Machine Learning
+
 
 ## Libraries Used
 
