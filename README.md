@@ -42,3 +42,5 @@ Our SC1015 Data Science &amp; Artificial Intelligence mini-project
 - <https://developers.google.com/machine-learning/data-prep/transform/normalization>
 - <https://machinelearningmastery.com/combine-oversampling-and-undersampling-for-imbalanced-classification/>
 - <https://www.analyticsvidhya.com/blog/2021/07/metrics-to-evaluate-your-classification-model-to-take-the-right-decisions/>
+- <https://machinelearningmastery.com/train-test-split-for-evaluating-machine-learning-algorithms/>
+- <https://towardsdatascience.com/finally-why-we-use-an-80-20-split-for-training-and-test-data-plus-an-alternative-method-oh-yes-edc77e96295d>
