@@ -1,6 +1,9 @@
-# SC1015 Data Science and Artificial Intelligence mini project - Give me some credit
+# SC1015 Data Science and Artificial Intelligence Mini Project - Give Me Some Credit
 
-Our SC1015 Data Science &amp; Artificial Intelligence mini-project
+Our SC1015 Data Science &amp; Artificial Intelligence Mini-Project!
+
+[Screenshot 2023-04-23 at 23-35-08 SC1015 Project](https://user-images.githubusercontent.com/67941344/233849470-a2f2daa5-978e-43bb-8d02-a15e16a132b9.png)
+
 
 ## Flow of our notebooks
 |Input   | Python Notebook  | Output  | About |
@@ -39,6 +42,7 @@ Our project video can be viewed here: https://youtu.be/GosWSGvHp-0
 
 ## References
 
+- Dataset: <https://www.kaggle.com/competitions/GiveMeSomeCredit>
 - <https://medium.com/bycodegarage/a-comprehensive-guide-on-handling-missing-values-b1257a4866d1>
 - <https://www.shiksha.com/online-courses/articles/handling-missing-data-mean-median-mode/>
 - <https://towardsai.net/p/data-science/how-when-and-why-should-you-normalize-standardize-rescale-your-data-3f083def38ff>
