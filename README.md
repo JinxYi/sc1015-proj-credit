@@ -5,7 +5,8 @@ Our SC1015 Data Science &amp; Artificial Intelligence mini-project
 ## Flow of our notebooks
 |Input   | Python Notebook  | Output  |
 |---|---|---|
-|  cs data.csv | 1015_project.ipynb  |  df_train1.csv & df_test1.csv  |
+|  cs data.csv | 1015_project.ipynb  |  df_train.csv & df_test.csv  |
+|  df_train.csv & df_test.csv | 1015_project_normalization.ipynb  |  df_train1.csv & df_test1.csv  |
 |  df_train1.csv & df_test1.csv | 1015_project_model.ipynb  |  - |
 
 ## Libraries Used
