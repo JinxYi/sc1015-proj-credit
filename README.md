@@ -34,6 +34,9 @@ Our SC1015 Data Science &amp; Artificial Intelligence mini-project
 - New classification model: AdaBoost
 - Fine tuning hyperparameters to improve our model
 
+## Project YouTube Video
+Our project video can be viewed here: https://youtu.be/GosWSGvHp-0
+
 ## References
 
 - <https://medium.com/bycodegarage/a-comprehensive-guide-on-handling-missing-values-b1257a4866d1>
